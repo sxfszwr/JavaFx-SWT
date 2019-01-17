@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Javaxswt
+Bundle-SymbolicName: com.piruirui.javaxswt
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.piruirui.javaxswt.TestPlugin
+Bundle-Vendor: PIRUIRUI
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.swt.cocoa.macosx.x86_64.source;bundle-version="3.106.3"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: com.piruirui.javaxswt
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: lib/jfxutils-1.0.1-SNAPSHOT.jar,
+ .
