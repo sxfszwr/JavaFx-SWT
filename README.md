@@ -1,2 +1,2 @@
 # JavaFx-SWT
-How to user javafx in swt
+How to use javafx in swt
