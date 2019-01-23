@@ -1,13 +1,13 @@
 # JavaFx-SWT
 
-A Demo about how to use javafx in swt.
+A demo about how to use javafx in swt.
 
 ## Required Lib
 - swt
 - e(fx)clipse
 - jfxutils
 
-## Result
+## Screenshot
 
 ![](https://ws3.sinaimg.cn/large/006tNc79ly1fzffejmvedj318k0rwtdn.jpg)
 
